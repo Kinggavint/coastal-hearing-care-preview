@@ -139,7 +139,7 @@ p { margin: 0 0 1em; }
   padding: 18px 0;
   gap: 24px;
 }
-.site-logo img { height: 80px; width: auto; }
+.site-logo img { height: 110px; width: auto; }
 .site-nav ul {
   display: flex;
   gap: 26px;
@@ -539,6 +539,7 @@ p { margin: 0 0 1em; }
   .contact-grid { grid-template-columns: 1fr; gap: 32px; }
   .footer-grid { grid-template-columns: repeat(2, 1fr); gap: 32px; }
   .section { padding: 64px 0; }
+  .site-logo img { height: 90px; }
 }
 @media (max-width: 720px) {
   .site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; background: var(--color-white); border-bottom: 1px solid var(--color-border); box-shadow: var(--shadow-md); padding: 20px; }
@@ -550,4 +551,5 @@ p { margin: 0 0 1em; }
   .hero-stat-num { font-size: 1.6rem; }
   .footer-grid { grid-template-columns: 1fr; }
   .header-top { display: none; }
+  .site-logo img { height: 70px; }
 }
