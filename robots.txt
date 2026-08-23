@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kinggavint.github.io/coastal-hearing-care-preview/sitemap.xml
-# apex-deploy-test-5e4770f24a21
+Sitemap: https://coastalhearingcare.com/sitemap.xml
