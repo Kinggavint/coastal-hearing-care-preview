@@ -1,0 +1,10 @@
+{
+  "_comment": "Single source of truth for Coastal Hearing Care phones (two locations, as on the current site and schema).",
+  "name": "Coastal Hearing Care",
+  "phones": [
+    {"label": "Bradenton (Cortez Rd)", "display": "(941) 344-2761", "e164": "+19413442761"},
+    {"label": "Second location", "display": "(941) 344-3575", "e164": "+19413443575"}
+  ],
+  "other_allowed_tel": [],
+  "banned_numbers": []
+}
