@@ -22,7 +22,7 @@ Rebuild these 12 as new pages, rewritten and fact-checked (not copied word for w
 
 Option for later: Lakewood Ranch and West Bradenton location pages (/lakewood-ranch-fl/, /west-bradenton-fl/) would help local rankings. They need the right phone on each (3575 Lakewood Ranch, 2761 Cortez) and fall under the freeze and client review.
 
-The other ~220 articles get the 301s in redirect-map-2026-11-04.csv. 10 junk URLs (author archives, hello-world, uncategorized) stay 404/410.
+The other 194 articles (204 article rows in the map, minus the 10 restore picks above that are articles) get the 301s in redirect-map-2026-11-04.csv. 10 junk URLs (author archives, hello-world, uncategorized) stay 404/410.
 
 ## Pros
 - Gets back real topic coverage that went away when 250+ posts became 12 pages.

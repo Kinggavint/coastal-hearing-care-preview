@@ -70,15 +70,15 @@ old_url,status,type,target,confidence,reason
 /getting-a-loved-one-to-take-a-hearing-test/,404,article,/services/,med,hearing test/evaluation (on services page)
 /getting-ready-for-your-first-appointment/,soft404,page,/contact/,med,new-patient info; contact/booking page is closest
 /habits-that-are-damaging-to-your-hearing-health/,404,article,/hearing-loss/,med,general hearing loss/health topic
-/hearing aids/,404,article,/hearing-aids/,high,hearing aids topic
+/hearing%20aids/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aid-evaluation/,404,article,/services/,med,hearing test/evaluation (on services page)
 /hearing-aid-features/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aid-tips-faq/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/6-tricks-to-make-hearing-aid-batteries-last/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/blue-tooth-hearing-aids/,404,article,/hearing-aids/,high,hearing aids topic
-/hearing-aids-news/bond-between-pets-and-people-with-hearing-loss/,404,article,/hearing-aids/,high,hearing aids topic
+/hearing-aids-news/bond-between-pets-and-people-with-hearing-loss/,404,article,/hearing-loss/,high,general hearing loss/health topic (QA retarget)
 /hearing-aids-news/can-you-wear-hearing-aids-during-an-ear-infection/,404,article,/hearing-aids/,high,hearing aids topic
-/hearing-aids-news/could-hearing-loss-affect-your-lifespan/,404,article,/hearing-aids/,high,hearing aids topic
+/hearing-aids-news/could-hearing-loss-affect-your-lifespan/,404,article,/hearing-loss/,high,general hearing loss/health topic (QA retarget)
 /hearing-aids-news/essential-guide-to-prolonging-the-life-of-your-hearing-aid/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/exploring-hearing-aid-types/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/guide-to-maintaining-and-cleaning-your-hearing-aids/,404,article,/services/,med,"service topic (earwax, protection, repairs, fittings)"
@@ -100,7 +100,7 @@ old_url,status,type,target,confidence,reason
 /hearing-aids-news/what-are-the-main-benefits-of-wearing-hearing-aids/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/whats-new-in-2025-for-hearing-aid-technology/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-news/when-is-it-time-to-update-your-hearing-aids/,404,article,/hearing-aids/,high,hearing aids topic
-/hearing-aids-news/why-are-motorcyclists-at-an-increased-risk-for-hearing-loss/,404,article,/hearing-aids/,high,hearing aids topic
+/hearing-aids-news/why-are-motorcyclists-at-an-increased-risk-for-hearing-loss/,404,article,/hearing-loss/,high,general hearing loss/health topic (QA retarget)
 /hearing-aids-news/why-hearing-aids-can-cause-headaches-and-how-to-fix-it/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids-types/,404,article,/hearing-aids/,high,hearing aids topic
 /hearing-aids/behind-the-ear/,404,page,/hearing-aids/,high,hearing aids topic
@@ -232,7 +232,7 @@ old_url,status,type,target,confidence,reason
 /mixed-hearing-loss/,404,article,/hearing-loss/,med,general hearing loss/health topic
 /navigating-social-situations-with-hearing-loss-a-guide-for-the-holidays/,404,article,/hearing-loss/,med,general hearing loss/health topic
 /new-patients/,404,page,/contact/,med,new-patient info; contact/booking page is closest
-/no-surprises-act/,404,page,/terms-of-service/,low,legal notice; no exact page
+/no-surprises-act/,404,page,/terms-of-service/,low,needs client confirmation
 /our-services/,404,page,/services/,high,old services hub
 /our-services/digital-hearing-aids/,404,page,/hearing-aids/,high,hearing aids topic
 /our-services/earmolds-and-earplugs/,404,page,/services/,med,"service topic (earwax, protection, repairs, fittings)"
@@ -248,7 +248,7 @@ old_url,status,type,target,confidence,reason
 /page/7/,404,page,/blog/,med,old blog/listing archive page
 /planning-for-hearing-health-in-2024/,404,article,/hearing-loss/,med,general hearing loss/health topic
 /prepare-for-your-audiologist-appointment-in-bradenton/,404,page,/contact/,med,new-patient info; contact/booking page is closest
-/ringing-in-2023-with-hearing-loss/,404,article,/tinnitus/,high,tinnitus topic
+/ringing-in-2023-with-hearing-loss/,404,article,/hearing-loss/,high,general hearing loss/health topic (QA retarget)
 /save-your-hearing-day/,404,article,/hearing-loss/,med,general hearing loss/health topic
 /setting-hearing-health-resolutions-for-the-new-year/,404,article,/hearing-loss/,med,general hearing loss/health topic
 /stress-awareness-month/,404,article,/blog/,low,"seasonal/misc article; no topic page, blog hub fallback"
