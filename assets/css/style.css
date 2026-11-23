@@ -244,6 +244,8 @@ p { margin: 0 0 1em; }
 }
 .page-hero h1 { color: var(--color-white); }
 .page-hero p { color: var(--color-sand-light); max-width: 680px; margin: 0 auto; font-size: 1.15rem; }
+.page-hero a { color: var(--color-white); text-decoration: underline; text-underline-offset: 2px; }
+.page-hero a:hover, .page-hero a:focus { color: var(--color-sand-light); }
 
 /* Grids */
 .grid { display: grid; gap: 28px; }
